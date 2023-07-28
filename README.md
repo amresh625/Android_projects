@@ -1,10 +1,10 @@
 # Android_projects
 
-# Awesome Android Apps
+ 
 
 A curated list of awesome open source Android applications, tutorials and resources. Inspired by other awesome-\* projects.
 
-[<img src="logo.png">](https://github.com/LinuxCafeFederation/awesome-android)
+ 
 
 ## Contents
 
@@ -382,8 +382,5 @@ To see content that is deprecated, lacking documentation or proprietary but stil
 
 [TechWiser](https://techwiser.com/open-source-android-apps/)
 
-### Mirrors
 
-- Codeberg: https://codeberg.org/LinuxCafeFederation/awesome-android
-- GitLab: https://gitlab.com/linuxcafefederation/awesome-android
-- GitHub: https://github.com/LinuxCafeFederation/awesome-android
+ Thank You 🙏
